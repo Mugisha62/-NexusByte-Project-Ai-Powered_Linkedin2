@@ -493,3 +493,7 @@ Planned improvements include:
 # Maintainers
 
 Project maintained by the development team building the **AI‑Powered LinkedIn Post Automation Tool**.
+
+# Ai-Powered_Linkedin_Post_Automation
+>>>>>>> 2bfa95967bd957a3e5ea353486da7b0adc721f11
+
