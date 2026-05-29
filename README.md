@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI-Powered LinkedIn Post Automation
 
 ## Overview
